@@ -19,13 +19,11 @@ J’ai une expérience pratique issue des CTFs et plateformes d’entraînement 
 
 | Projet | Description | Technologies / notes |
 |--------|-------------|----------------------|
-| **RecelFast** | Factory de boutiques Telegram automatisées — orchestration Docker, intégration paiements crypto, déploiement automatique d’instances. | Python, Docker, Smart Contracts (Solidity) — lien vers le repo à ajouter |
-| **Challenges & CTFs** | Writeups et scripts pour défis Web3 et sécurité : Ethernaut, HackTheBox, challenges de type pwn/reverse/crypto. | Repos d’exemples et writeups disponibles — ajoutez vos liens |
-| **Pentests (HTB)** | Exercices et rapports de tests d’intrusion menés sur des machines HackTheBox — notes méthodologiques, PoCs et outils d’exploitation. | Contenu structuré par machine / note d’audit |
-| **Projets 42** | Travaux et réalisations effectués à l’école 42 (exemples : minishell, libft, Cube3D, etc.) — code et explanations. | Indiquer les projets précis et liens vers les repos correspondants |
-| **Projets collaboratifs** | Projets réalisés en collaboration (scripts, outils, automations) avec d’autres contributeurs — démonstrations et code. | Remplacer par les noms/links des projets sur lesquels nous avons travaillé ensemble |
-
-> Remarque : je peux ajouter des liens directs vers chaque repo / writeup si tu veux — indique les URL et je les insère proprement.
+| **RecelFast** | Factory de boutiques Telegram automatisées — orchestration Docker, intégration paiements crypto, déploiement automatique d’instances. | Python, Docker, Smart Contracts (Solidity) |
+| **Challenges & CTFs** | Writeups et scripts pour défis Web3 et sécurité : Ethernaut, HackTheBox, challenges de type pwn/reverse/crypto. | |
+| **Pentests (HTB)** | Exercices et rapports de tests d’intrusion menés sur des machines HackTheBox — notes méthodologiques, PoCs et outils d’exploitation. |  |
+| **Projets 42** | Travaux et réalisations effectués à l’école 42 (exemples : minishell, libft, Cube3D, etc.) — code et explanations. |  |
+| **Projets collaboratifs** | Projets réalisés en collaboration (scripts, outils, automations) avec d’autres contributeurs — démonstrations et code. | |
 
 ---
 
@@ -38,14 +36,9 @@ Ouvert aux collaborations sur des audits, pentests, projets Web3 et développeme
 ## Contact
 
 - GitHub : https://github.com/Xr4t0s  
-- LinkedIn : *(ajoute ton lien LinkedIn ici)*  
-- Email : *(optionnel — ex. : xr4t0s@proton.me)*
+- LinkedIn : www.linkedin.com/in/nitadros
 
 ---
-
-## Phrase de clôture (optionnelle)
-
-> « La sécurité s’améliore quand on documente, automatise et partage les bonnes pratiques. »
 
 
 
