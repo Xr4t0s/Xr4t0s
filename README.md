@@ -5,15 +5,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/42-Perpignan-000000?style=for-the-badge" alt="42 Perpignan" />
   <a href="https://www.linkedin.com/in/nitadros"><img src="https://img.shields.io/badge/LinkedIn-nitadros-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+  <a href="https://profile.hackthebox.com/profile/019f6f1d-2276-723f-9312-a9ce7e407d8d"><img src="https://img.shields.io/badge/Hack%20The%20Box-Kr4t0sRs-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" /></a>
 </p>
 
 ## À propos
 
 **Du syscall au smart contract, je veux savoir comment ça marche — et où ça casse.**
 
-Étudiant à **42 Perpignan**. Je passe mes soirées sur **HackTheBox** à énumérer, exploiter et escalader,
+Étudiant à **42 Perpignan**. Je passe mes soirées sur [**HackTheBox**](https://profile.hackthebox.com/profile/019f6f1d-2276-723f-9312-a9ce7e407d8d) à énumérer, exploiter et escalader,
 j'écris du **C/C++ bas niveau**, et je déploie mes propres stacks en prod sur mon homelab.
+
+<p>
+  <a href="https://profile.hackthebox.com/profile/019f6f1d-2276-723f-9312-a9ce7e407d8d"><img src="https://img.shields.io/badge/HTB%20Season%205-Ruby-E0115F?style=flat-square&logo=hackthebox&logoColor=white" alt="HTB Season 5 Ruby" /></a>
+  <img src="https://img.shields.io/badge/HTB%20Seasons%204%C2%B75%C2%B76%C2%B79-Silver-A8A9AD?style=flat-square&logo=hackthebox&logoColor=white" alt="HTB Silver Seasons 4, 5, 6, 9" />
+  <img src="https://img.shields.io/badge/CTF-Hack%20The%20Boo%202024-FF8C00?style=flat-square&logo=hackthebox&logoColor=white" alt="Hack The Boo 2024" />
+</p>
 
 🎯 **Je cherche un stage ou une alternance** en cybersécurité offensive ou en développement système.
 
@@ -92,7 +98,7 @@ j'écris du **C/C++ bas niveau**, et je déploie mes propres stacks en prod sur 
 
 ## Ce que je fais
 
-- 🔓 **Sécurité offensive** — machines HackTheBox : énumération, exploitation web, élévation de privilèges, reverse engineering
+- 🔓 **Sécurité offensive** — HackTheBox en compétition depuis la Saison 4 : **Ruby en Saison 5**, Silver sur 4 saisons, CTF Hack The Boo 2024
 - ⚙️ **Systèmes** — C/C++, Unix, réseau, concurrence : je veux comprendre ce qui se passe sous le capot
 - 🖥️ **Infra & self-hosting** — homelab maison : Docker Compose, Nginx, PostgreSQL, systemd
 - 📜 **Smart contracts** — audit et exploitation Solidity, en terrain de jeu
