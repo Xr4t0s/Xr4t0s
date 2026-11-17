@@ -17,21 +17,38 @@ Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **M
 
 ## Stack
 
+### Au quotidien
+
 <p align="left">
   <b>Langages</b><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,ts,solidity&theme=dark" alt="C, C++, Rust, Go, Python, TypeScript, Solidity" />
-  <img src="https://img.shields.io/badge/Move-Sui-4DA2FF?style=for-the-badge" alt="Move (Sui)" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts,c,cpp,rust,solidity,bash&theme=dark" alt="TypeScript, C, C++, Rust, Solidity, Bash" />
 </p>
 
 <p align="left">
-  <b>Web &amp; Web3</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,vue,vite&theme=dark" alt="React, Vue, Vite" />
-  <img src="https://img.shields.io/badge/Foundry-forge%20%7C%20cast-1a1a1a?style=for-the-badge" alt="Foundry" height="48" />
+  <b>Web &amp; back-end</b><br/>
+  <img src="https://skillicons.dev/icons?i=nuxtjs,vue,tailwind,nestjs,postgres,redis&theme=dark" alt="Nuxt, Vue, Tailwind, NestJS, PostgreSQL, Redis" />
 </p>
 
 <p align="left">
-  <b>Infra &amp; outils</b><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,neovim&theme=dark" alt="Linux, Bash, Docker, Kubernetes, Git, Neovim" />
+  <b>Infra &amp; ops</b><br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,neovim&theme=dark" alt="Linux, Docker, Nginx, Git, Neovim" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Valkey-DC382D?style=for-the-badge" alt="Valkey" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/systemd-30D475?style=for-the-badge&logoColor=black" alt="systemd" />
+  <img src="https://img.shields.io/badge/Foundry-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
+</p>
+
+> Postgres workers, scripts shell, services systemd, déploiements Docker Compose derrière Nginx : c'est mon terrain de jeu habituel.
+
+### Notions
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,react,kubernetes,go&theme=dark&perline=8" alt="Python, React, Kubernetes, Go" height="36" />
+  <img src="https://img.shields.io/badge/Move-Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white" alt="Move (Sui)" />
 </p>
 
 ## Projets mis en avant
@@ -76,7 +93,7 @@ Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **M
 - **Systèmes** : C, C++, Unix, réseau, programmation concurrente
 - **Sécurité** : sécurité des smart contracts, CTF, pentest (HackTheBox), reverse engineering
 - **Web3** : Solidity, Move (Sui), Foundry, outils d'analyse on-chain
-- **Infra** : Docker, Kubernetes (k3d), Linux
+- **Infra** : Linux, Docker Compose, Nginx, systemd, PostgreSQL
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
