@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Nicolas%20Tadros&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Syst%C3%A8mes%20%C2%B7%20Cybers%C3%A9curit%C3%A9%20%C2%B7%20Web3&descAlignY=60&descSize=18" alt="Nicolas Tadros" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Nicolas%20Tadros&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Je%20construis.%20Je%20casse.%20Je%20corrige.&descAlignY=60&descSize=18" alt="Nicolas Tadros" width="100%" />
 </p>
 
 <p align="center">
@@ -10,10 +10,12 @@
 
 ## À propos
 
-Étudiant à **42 Perpignan**, je m'intéresse au développement bas niveau, à la cybersécurité et à la sécurité Web3.
+**Du syscall au smart contract, je veux savoir comment ça marche — et où ça casse.**
 
-J'aime comprendre comment les systèmes fonctionnent vraiment, du syscall au smart contract, puis trouver où ils cassent.
-Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **Move** : audit de contrats, exploitation, outillage.
+Étudiant à **42 Perpignan**. Je passe mes soirées sur **HackTheBox** à énumérer, exploiter et escalader,
+j'écris du **C/C++ bas niveau**, et je déploie mes propres stacks en prod sur mon homelab.
+
+🎯 **Je cherche un stage ou une alternance** en cybersécurité offensive ou en développement système.
 
 ## Stack
 
@@ -42,7 +44,7 @@ Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **M
   <img src="https://img.shields.io/badge/Foundry-1a1a1a?style=for-the-badge&logo=ethereum&logoColor=white" alt="Foundry" />
 </p>
 
-> Postgres workers, scripts shell, services systemd, déploiements Docker Compose derrière Nginx : c'est mon terrain de jeu habituel.
+> Workers Postgres, scripts Bash, services systemd, Docker Compose derrière Nginx : je ne fais pas que coder, je fais tourner.
 
 ### Notions
 
@@ -57,14 +59,14 @@ Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **M
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Xr4t0s/IRC">IRC</a></h3>
-      Serveur IRC écrit de zéro : I/O non bloquantes, une seule boucle <code>poll()</code>, canaux et modes opérateur (<code>i t k o l</code>). Projet en équipe de 3.<br/><br/>
+      Un serveur IRC complet, sans fork ni thread : <b>une seule boucle <code>poll()</code></b> encaisse toutes les connexions. Canaux, opérateurs, modes <code>i t k o l</code>. Équipe de 3.<br/><br/>
       <img src="https://img.shields.io/badge/C%2B%2B98-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/TCP%20sockets-333?style=flat-square" />
       <img src="https://img.shields.io/badge/poll()-333?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Xr4t0s/Minishell">Minishell</a></h3>
-      Shell Unix inspiré de bash : parsing et quotes, expansions (<code>$VAR</code>, <code>$?</code>), pipes, redirections, heredoc, built-ins et signaux.<br/><br/>
+      Mon propre bash, en C. Lexer, parser, expansions (<code>$VAR</code>, <code>$?</code>), pipes, redirections, heredoc, signaux : <b>tout réécrit à la main</b>, au-dessus de <code>fork</code> / <code>execve</code>.<br/><br/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/POSIX-333?style=flat-square" />
       <img src="https://img.shields.io/badge/Readline-333?style=flat-square" />
@@ -73,14 +75,14 @@ Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **M
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Xr4t0s/Ethernaut">Ethernaut</a></h3>
-      Exploits de 22 contrats vulnérables : collisions de stockage <code>delegatecall</code> et proxy, UUPS non initialisé, calldata forgé, bytecode EVM brut…<br/><br/>
+      <b>22 contrats vulnérables, 22 exploits.</b> Collisions de stockage, proxies détournés, calldata forgé à la main, bytecode EVM écrit en hexa.<br/><br/>
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
       <img src="https://img.shields.io/badge/Foundry-1a1a1a?style=flat-square" />
       <img src="https://img.shields.io/badge/Smart%20contract%20security-B5121B?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Xr4t0s/dApp-SUI">OpenSui</a></h3>
-      Réseau social entièrement on-chain sur Sui : profils, posts, likes et commentaires stockés en objets Move. Né d'un workshop 42 × Sui Foundation.<br/><br/>
+      Un réseau social <b>sans serveur ni base de données</b> : profils, posts et likes vivent on-chain en objets Move. Né d'un workshop 42 × Sui Foundation.<br/><br/>
       <img src="https://img.shields.io/badge/Move-4DA2FF?style=flat-square&logo=sui&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -88,12 +90,12 @@ Je travaille surtout en **C / C++**, et sur la blockchain en **Solidity** et **M
   </tr>
 </table>
 
-## Domaines
+## Ce que je fais
 
-- **Systèmes** : C, C++, Unix, réseau, programmation concurrente
-- **Sécurité** : sécurité des smart contracts, CTF, pentest (HackTheBox), reverse engineering
-- **Web3** : Solidity, Move (Sui), Foundry, outils d'analyse on-chain
-- **Infra** : Linux, Docker Compose, Nginx, systemd, PostgreSQL
+- 🔓 **Sécurité offensive** — machines HackTheBox : énumération, exploitation web, élévation de privilèges, reverse engineering
+- ⚙️ **Systèmes** — C/C++, Unix, réseau, concurrence : je veux comprendre ce qui se passe sous le capot
+- 🖥️ **Infra & self-hosting** — homelab maison : Docker Compose, Nginx, PostgreSQL, systemd
+- 📜 **Smart contracts** — audit et exploitation Solidity, en terrain de jeu
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
